@@ -2,6 +2,7 @@
 name = "rust_arrow_datafusion"
 version = "0.1.0"
 edition = "2024"
+authors = ["Victor Aguayo"]
 
 [dependencies]
 tokio = { version = "1.44.2", features = ["full"] }
