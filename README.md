@@ -53,7 +53,7 @@ RUST_LOG=info
 ## ▶️ Running the Project
 
 1. **Place your Parquet file** at `data/ejemplo.parquet` or update the path in `.env`.
-2. Install Rust (if you haven't): https://rustup.rs
+2. Install Rust (if you haven't): (<https://rustup.rs>)
 3. Run:
 
 ```bash
